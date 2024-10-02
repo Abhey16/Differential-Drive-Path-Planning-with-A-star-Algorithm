@@ -2,17 +2,16 @@
 ---
 
 ## Node Exploration
----
 
 https://github.com/Abhey16/Differential-Drive-Path-Planning-with-A-star-Algorithm/assets/132549463/be0e5ddd-768b-497a-bdec-750b580b09ca
 
 ## TurltleBot following the generated path
----
 
 https://github.com/Abhey16/Differential-Drive-Path-Planning-with-A-star-Algorithm/assets/132549463/f359d49e-5b6a-4475-a941-37c633430f96
+---
 
 ## Installation
----
+
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 1. Create a directory with a subfolder named **src** on your local machine.
 2. Navigate into the directory using Terminal and run:
